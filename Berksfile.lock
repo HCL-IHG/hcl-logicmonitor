@@ -1,0 +1,7 @@
+DEPENDENCIES
+  hcl-logicmonitor
+    path: .
+    metadata: true
+
+GRAPH
+  hcl-logicmonitor (0.1.0)
